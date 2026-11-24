@@ -1,4 +1,4 @@
-# Robootika iseseisev arendusprojekt
+# Kaasaskantav Blackjack Masin (Blackjack Station Portable)
 
 See repositoorium on mõeldud IFI6203.DT kursuse "Robootika" üliõpilastele.  
 Iga meeskond **forkib** selle repo ja dokumenteerib siin oma seadme/projekti:
@@ -6,15 +6,20 @@ Iga meeskond **forkib** selle repo ja dokumenteerib siin oma seadme/projekti:
 - *millest seade koosneb (riistvara, kood, 3D prinditud detailid jne);*
 - *kuidas seade töötab;*
 - *kuidas seda uuesti ehitada.*
+## Probleem
+Peamine probleem mida minu leituatud BSP (blackjack station protable) masin lahendab
+on igavus. 
 
-## Kuidas seda repo't kasutada
+Üsna tihti on koolis pikad vahetunnid, kus pole eriti midagi teha, kuid
+mina olen loonud lahenduse.
 
-1. Vajuta ülal paremas nurgas **Fork**.
-2. Muuda `docs/PROJEKTIDOKUMENTATSIOON.md` enda projekti järgi.
-3. Pane kogu kood kataloogi `src/`.
-4. Pane skeemid ja riistvara info kataloogi `hardware/`.
-5. Lisa pildid / videod kataloogi `media/`.
-6. Commiti regulaarselt (isegi pooleliolevad sammud on okei – oluline on arengulugu).
+## Millest koosneb
+- 2 nupust
+- 2 LCD ekraanist
+- 1 TM1637
+- 5V toiteallikast
+
+## Kuidas töötab
 
 ## Projekti minimaalne sisu hindamiseks
 
