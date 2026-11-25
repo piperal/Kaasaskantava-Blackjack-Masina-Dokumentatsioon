@@ -75,13 +75,14 @@ Tabelina või punktidena. Nt:
 ---
 
 ## 7. Süsteemi juhtiv kood (või pseudokood)
-**Kirjelda programmi loogikat nii, et seda on võimalik aru saada ka hiljem.**  
 
 Programmi loogika on üsna 'lihtne', kuna kogu kood käib mängija sisendi ümber.
 Igale mängu osale on loodud funktsioon mida kutsutakse õigel ajal.
 Enne igat toimingut ootab süsteem mängija sisendit ja käithub 
 sisendist mis talle sai antud.
+Koodis olevad süsteemid ja funktsioonid on kõik komenteeritud
 
+# Kood
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <TM1637Display.h>
