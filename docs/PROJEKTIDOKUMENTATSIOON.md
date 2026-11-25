@@ -69,22 +69,8 @@ Tabelina või punktidena. Nt:
 
 ## 6. Ühendusskeem
 **Kuidas kõik osad on omavahel ühendatud?**
-
-- Lisa siia pilt või skeemi kirjeldus.
-- Fail `hardware/wiring-diagram.png` peab näitama vähemalt:
-  - milline pin Arduinol läheb millise komponendi sisendisse,
-  - kuidas on toide ühendatud.
-
-Kui skeemi pole veel joonistatud, siis vähemalt kirjelda tekstina, nt:
-
-- IR-sensor OUT → Arduino digipin 7  
-- Servo signaal → Arduino digipin 6  
-- Mootoridraiveri IN1 → Arduino digipin 2  
-- Mootoridraiveri IN2 → Arduino digipin 3  
-- Mootoridraiveri ENA → Arduino pin 5 (PWM)  
-- GND kõik ühises massis
-
-👉 _Skeem peab lõpuks olemas olema, mitte ainult tekst._
+![Ühendusskeem](/hardware/wiring-diagram.png)
+- Vooluallikas akupank
 
 ---
 
