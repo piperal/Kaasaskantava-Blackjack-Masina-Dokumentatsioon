@@ -3,7 +3,7 @@
 ## Põhikomponendid
 - Mikrokontroller: Arduino Uno
 - Toiteplokk / aku: 1.8A 5V USB akupank 
-- Moodulid: Arduino UNO, kaks LCD 16×2 ekraani koos I2C mooduliga, TM1637 ja 2 nuppu
+- Moodulid: Arduino UNO, kaks LCD 16×2 ekraani koos I2C mooduliga, üks TM1637 ja 2 nuppu
 - Draiverplaadid / moodulid: Wire.h, LiquidCrystal_I2C.h, TM1637Display.h
 - Kinnitused ja mehhaanika: *VEEL TÄITA*
 - Kaablid, kruvid, prototüüplaud jne. 24 juhet
